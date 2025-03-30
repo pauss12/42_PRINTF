@@ -45,17 +45,17 @@ int ft_prinf(const char *formato, ...);
 
 ## Ejemplos 
 
-	```c
-	#include "ft_printf.h" 
+```c
+#include "ft_printf.h" 
 
-	int main() {
-		ft_printf("Hola, %s! Tienes %d años.\n", "Mundo", 25); 
-		ft_printf("El carácter es: %c\n", 'A'); 
-		ft_printf("Un puntero: %p\n", (void *)0x12345678); 
-		ft_printf("Un número hexadecimal: %x\n", 42); 
-		return 0;
-	}
-	```
+int main() {
+	ft_printf("Hola, %s! Tienes %d años.\n", "Mundo", 25); 
+	ft_printf("El carácter es: %c\n", 'A'); 
+	ft_printf("Un puntero: %p\n", (void *)0x12345678); 
+	ft_printf("Un número hexadecimal: %x\n", 42); 
+	return 0;
+}
+```
 
 ## Control de Errores ⚠️
 
