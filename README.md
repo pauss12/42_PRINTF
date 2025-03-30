@@ -66,4 +66,4 @@ El programa maneja los siguientes errores:
 
 ## Créditos 
 
-Este proyecto fue desarrollado como parte del plan de estudios de 42 Madrid .
+Este proyecto fue desarrollado por pmendez- como parte del plan de estudios de 42 Madrid .
